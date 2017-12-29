@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ['chetan.rana@yapits.com']
 
   spec.summary       = 'This is a test gem'
-  spec.description   = 'This is a test gem'
-  spec.homepage      = 'TODO: Put your gem\'s website or public repo URL here.'
+  spec.description   = 'This is a test gem for learning purpose'
+  spec.homepage      = 'https://github.com/chetanrana2702/brooch'
   spec.license       = 'MIT'
 
   # # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
